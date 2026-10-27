@@ -1,0 +1,15 @@
+{
+  "name": "yolopicker-fair-pick",
+  "version": "1.0.0",
+  "description": "The picking engine behind the Yolo Picker Wheel of Names, with tests and a fairness simulation.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test",
+    "simulate": "node scripts/simulate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saketh2varma/fair-pick"
+  }
+}
